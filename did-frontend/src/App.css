@@ -1,0 +1,7 @@
+.App { text-align: center; }
+.App-header { background-color: #282c34; padding: 20px; color: white; margin-bottom: 20px; }
+.component { border: 1px solid #ccc; padding: 20px; margin: 20px; border-radius: 8px; }
+input, select, button { margin: 5px; padding: 8px; }
+button { cursor: pointer; }
+.message { margin-top: 15px; color: #333; font-family: monospace; word-break: break-all; }
+hr { width: 80%; margin: 40px auto; }
